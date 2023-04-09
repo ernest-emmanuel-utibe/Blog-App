@@ -1,6 +1,6 @@
 Spring Boot Blog Application
-This is an ENTIRE application for Java Spring Boot using:
 
+This is an ENTIRE application for Java Spring Boot using:
 Spring Data JPA
 H2 Database
 Thymeleaf
